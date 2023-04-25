@@ -362,9 +362,15 @@ p {
 /*--//skills--*/
 
 /*--bookself--*/
+.book-card {
+    display: block;
+    height: 340px;
+}
 .book-cover {
     float: left;
     display: inline-flex;
+    width: 215px;
+    height: 338px;
 }
 
 .book-cover img {
