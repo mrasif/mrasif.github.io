@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.679221dc.chunk.css",
-    "main.js": "/static/js/main.2c56d879.chunk.js",
-    "main.js.map": "/static/js/main.2c56d879.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.479d8a5c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.479d8a5c.js.map",
-    "static/js/2.f640880a.chunk.js": "/static/js/2.f640880a.chunk.js",
-    "static/js/2.f640880a.chunk.js.map": "/static/js/2.f640880a.chunk.js.map",
+    "main.css": "/static/css/main.423f0c14.css",
+    "main.js": "/static/js/main.a80fbfb6.js",
+    "static/media/protect-yourself-from-hackers.jpg": "/static/media/protect-yourself-from-hackers.64a897ec20ad02c14e5b.jpg",
+    "static/media/internet.jpg": "/static/media/internet.73a05c10c90de0da10c5.jpg",
+    "static/media/profile.jpg": "/static/media/profile.9da9acb3df7e67106c31.jpg",
+    "static/media/github.png": "/static/media/github.dea49d48a3e47344edfe.png",
+    "static/media/goodreads.png": "/static/media/goodreads.698370f3655a5781605a.png",
+    "static/media/stackoverflow.png": "/static/media/stackoverflow.11759b1dc38c155d6584.png",
+    "static/media/linkedin.png": "/static/media/linkedin.7d10869b0c35018dfb69.png",
     "index.html": "/index.html",
-    "static/css/main.679221dc.chunk.css.map": "/static/css/main.679221dc.chunk.css.map",
-    "static/js/2.f640880a.chunk.js.LICENSE.txt": "/static/js/2.f640880a.chunk.js.LICENSE.txt",
-    "static/media/github.dea49d48.png": "/static/media/github.dea49d48.png",
-    "static/media/goodreads.698370f3.png": "/static/media/goodreads.698370f3.png",
-    "static/media/internet.73a05c10.jpg": "/static/media/internet.73a05c10.jpg",
-    "static/media/linkedin.7d10869b.png": "/static/media/linkedin.7d10869b.png",
-    "static/media/profile.9da9acb3.jpg": "/static/media/profile.9da9acb3.jpg",
-    "static/media/protect-yourself-from-hackers.64a897ec.jpg": "/static/media/protect-yourself-from-hackers.64a897ec.jpg",
-    "static/media/stackoverflow.11759b1d.png": "/static/media/stackoverflow.11759b1d.png"
+    "main.423f0c14.css.map": "/static/css/main.423f0c14.css.map",
+    "main.a80fbfb6.js.map": "/static/js/main.a80fbfb6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.479d8a5c.js",
-    "static/js/2.f640880a.chunk.js",
-    "static/css/main.679221dc.chunk.css",
-    "static/js/main.2c56d879.chunk.js"
+    "static/css/main.423f0c14.css",
+    "static/js/main.a80fbfb6.js"
   ]
 }

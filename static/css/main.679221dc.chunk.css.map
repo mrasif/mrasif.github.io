@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/connections/style.css"],"names":[],"mappings":"AAAA,kBACI,iBACJ,CACA,sBACI,iBAAkB,CAClB,kBAAmB,CACnB,cACJ","file":"main.679221dc.chunk.css","sourcesContent":[".connections-left {\n    text-align: center;\n}\n.connections-left img {\n    padding-left: 10px;\n    padding-right: 10px;\n    cursor: pointer;\n}"]}

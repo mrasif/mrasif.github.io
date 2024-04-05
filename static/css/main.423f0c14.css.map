@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.423f0c14.css","mappings":"AAAA,kBACI,iBACJ,CACA,sBAGI,cAAe,CAFf,iBAAkB,CAClB,kBAEJ","sources":["components/connections/style.css"],"sourcesContent":[".connections-left {\n    text-align: center;\n}\n.connections-left img {\n    padding-left: 10px;\n    padding-right: 10px;\n    cursor: pointer;\n}"],"names":[],"sourceRoot":""}
